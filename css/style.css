@@ -191,7 +191,7 @@ main {
       margin: 5px auto;
       z-index: 9;
       cursor: pointer;
-      -webkit-transition: all 0.25s linear; }
+      transition: all 0.25s linear; }
     .radio-item:hover label {
       color: #F51E38; }
     .radio-item:hover .radio-check {
